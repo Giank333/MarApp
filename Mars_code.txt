@@ -1,0 +1,21 @@
+MyProject/
+    res/
+    drawable/
+        Mars.png
+        Mars.9.png
+    layout/
+        activity_main.xml
+            layout-large/
+        activity_main.xml
+            layout-xlarge/
+        activity_main.xml
+            layout-land/
+        activity_main.xml
+    values/
+        strings.xml
+            values-en/
+        strings.xml
+            values-fr/
+        strings.xml
+            values-de/
+        strings.xml
